@@ -1,0 +1,15 @@
+C:\Projetos\IntersectFilesApp\bin\Debug\net7.0\IntersectFilesApp.exe
+C:\Projetos\IntersectFilesApp\bin\Debug\net7.0\IntersectFilesApp.deps.json
+C:\Projetos\IntersectFilesApp\bin\Debug\net7.0\IntersectFilesApp.runtimeconfig.json
+C:\Projetos\IntersectFilesApp\bin\Debug\net7.0\IntersectFilesApp.dll
+C:\Projetos\IntersectFilesApp\bin\Debug\net7.0\IntersectFilesApp.pdb
+C:\Projetos\IntersectFilesApp\obj\Debug\net7.0\IntersectFilesApp.csproj.AssemblyReference.cache
+C:\Projetos\IntersectFilesApp\obj\Debug\net7.0\IntersectFilesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\IntersectFilesApp\obj\Debug\net7.0\IntersectFilesApp.AssemblyInfoInputs.cache
+C:\Projetos\IntersectFilesApp\obj\Debug\net7.0\IntersectFilesApp.AssemblyInfo.cs
+C:\Projetos\IntersectFilesApp\obj\Debug\net7.0\IntersectFilesApp.csproj.CoreCompileInputs.cache
+C:\Projetos\IntersectFilesApp\obj\Debug\net7.0\IntersectFilesApp.dll
+C:\Projetos\IntersectFilesApp\obj\Debug\net7.0\refint\IntersectFilesApp.dll
+C:\Projetos\IntersectFilesApp\obj\Debug\net7.0\IntersectFilesApp.pdb
+C:\Projetos\IntersectFilesApp\obj\Debug\net7.0\IntersectFilesApp.genruntimeconfig.cache
+C:\Projetos\IntersectFilesApp\obj\Debug\net7.0\ref\IntersectFilesApp.dll
